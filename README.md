@@ -23,7 +23,7 @@ The fanbase for metal music has been increasing rapidly for over a decade but;
 
 ## The Dataset
 
-The information was originally scraped from MetalStorm. The data consists the following features:
+The information was originally scraped from [MetalStorm](http://metalstorm.net/home/). The data consists the following features:
 
 - band_name : the unique name given to the band
 - fans: the number of people devoted to the band
